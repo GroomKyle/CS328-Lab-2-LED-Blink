@@ -1,0 +1,6 @@
+Dependencies for Project 'Lab2', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Blinky.c)(0x54BD6F55)(-c --cpu Cortex-M4 -D__EVAL --li -g -O0 --apcs=interwork --split_sections-I C:\Users\groom_kyle\Documents\Kiel\Projects\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\Device\ARM\ARMCM4\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="513" -DARMCM4-o .\objects\blinky.o --omf_browse .\objects\blinky.crf --depend .\objects\blinky.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5476A9D0)
+I (tm4c123gh6pm.h)(0x54B97712)
+F (.\startup_rvmdk.S)(0x54B972CF)(--cpu Cortex-M4 --li --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Users\groom_kyle\Documents\Kiel\Projects\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\Device\ARM\ARMCM4\Include-I C:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 513" --pd "ARMCM4 SETA 1"--list .\listings\startup_rvmdk.lst --xref -o .\objects\startup_rvmdk.o --depend .\objects\startup_rvmdk.d)
+F (.\tm4c123gh6pm.h)(0x54B97712)()
